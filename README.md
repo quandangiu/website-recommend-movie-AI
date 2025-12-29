@@ -79,7 +79,7 @@ Tạo file `.prs` trong thư mục gốc của project và thêm nội dung:
 
 **Ví dụ:**
 ```json
-{"themoviedb_apikey": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6"}
+{"themoviedb_apikey": "a1sjbwofbiwhgbowijbwhvkbweo"}
 ```
 
 ⚠️ **Lưu ý:** 
